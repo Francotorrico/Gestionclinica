@@ -1,0 +1,6 @@
+DAtos personales 
+
+nombre: Gabriel gonxalo
+Apellido: diaz
+fecha nacmiento:
+email:
